@@ -1,9 +1,11 @@
 ---
-title: Project Title
+title: Vocabolangelo
 has_children: false
 nav_order: 1
 ---
 
-# Project Title
+# Vocabolangelo
 
-Project description.
+Welcome to the Vocabolangelo!
+
+Have fun.
