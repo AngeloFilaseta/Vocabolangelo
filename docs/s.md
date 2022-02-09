@@ -4,6 +4,9 @@ has_children: false
 ---
 # S
 
+## Scorciatroia
+Un percorso che, tra due località, risulta sembra più breve della strada più importante, ma è in realtà più lunga.
+
 ## Sbadigliese
 La lingua che si parla quando si prova a parlare mentre si sbadiglia.
 
