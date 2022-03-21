@@ -14,6 +14,9 @@ Disponibile in tutte le varianti possibili.
 ## Canillodromo
 Ippodromo ma per i cani.
 
+## Cedrancia
+Una bevanda che si ottiene mischiando insieme la cedrata e una qualsiasi aranciata.
+
 ## Coecrita
 Una persona ipocrita, sarcasticamente non coerente.
 
