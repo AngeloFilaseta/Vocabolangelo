@@ -7,6 +7,9 @@ has_children: false
 ## Falsevolezza
 Sinonimo di falsità.
 
+## Fetiscista
+Chi segue la pratica del feticismo verso lo sport dello Sci.
+
 ## Frisbeedina
 Una piadina cucinata troppo, che risulta molto simile ad un frisbee.
 
