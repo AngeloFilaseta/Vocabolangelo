@@ -22,5 +22,8 @@ Sinonimo di stanco, assonnato.
 ## Stravoloso
 Sinonimo di favoloso, ma più in grande. Simile a Strabiliante, incredibile.
 
+## Stroia
+Una persona che è contemporaneamente sia stronza che troia.
+
 ## Stupendoso
 Sinonimo di stupendo.
