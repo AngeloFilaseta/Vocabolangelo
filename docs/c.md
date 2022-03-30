@@ -22,3 +22,6 @@ Una persona ipocrita, sarcasticamente non coerente.
 
 ## Complinsulto
 Un'affermazione che non si capisce bene se sia un complimento o un insulto.
+
+## Coreliano
+Il linguaggio segreto utilizzato per scrivere in italiano con l'alfabeto coreano.
