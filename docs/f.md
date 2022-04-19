@@ -10,6 +10,9 @@ Sinonimo di falsità.
 ## Fetiscista
 Chi segue la pratica del feticismo verso lo sport dello Sci.
 
+## Fremitoso
+Quando ci si comporta in modo agitato a causa di un sentimento intenso.
+
 ## Frisbeedina
 Una piadina cucinata troppo, che risulta molto simile ad un frisbee.
 
